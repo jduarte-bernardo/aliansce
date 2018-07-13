@@ -46,15 +46,6 @@
     </actionOverrides>
     <allowInChatterGroups>true</allowInChatterGroups>
     <compactLayoutAssignment>Sala</compactLayoutAssignment>
-    <compactLayouts>
-        <fullName>Sala</fullName>
-        <fields>TW1_Entretenimento__c</fields>
-        <fields>Name</fields>
-        <fields>TW1_Numero_de_Lugares__c</fields>
-        <fields>TW1_Shopping__c</fields>
-        <fields>TW1_Tipo__c</fields>
-        <label>Sala</label>
-    </compactLayouts>
     <deploymentStatus>Deployed</deploymentStatus>
     <enableActivities>true</enableActivities>
     <enableBulkApi>true</enableBulkApi>

@@ -122,28 +122,6 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>TW1_Loja__c</fullName>
-        <deleteConstraint>Restrict</deleteConstraint>
-        <externalId>false</externalId>
-        <label>Loja</label>
-        <lookupFilter>
-            <active>true</active>
-            <filterItems>
-                <field>Account.RecordTypeId</field>
-                <operation>equals</operation>
-                <value>Loja</value>
-            </filterItems>
-            <isOptional>false</isOptional>
-        </lookupFilter>
-        <referenceTo>Account</referenceTo>
-        <relationshipLabel>Históricos</relationshipLabel>
-        <relationshipName>Hist_ricos</relationshipName>
-        <required>false</required>
-        <trackHistory>true</trackHistory>
-        <trackTrending>false</trackTrending>
-        <type>Lookup</type>
-    </fields>
-    <fields>
         <fullName>TW1_NTFS__c</fullName>
         <externalId>false</externalId>
         <label>NTFS</label>
